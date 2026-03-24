@@ -18,5 +18,5 @@ Simon Says is a memory-based game where the player must repeat a sequence of col
 6. Game Over: Making a mistake ends the game and displays your final score.
 🔧 Technical Details
 Technologies: HTML5, CSS3, JavaScript
-Framework: Vanilla JavaScript (no dependencies)
+Framework: Vanilla JavaScript (no dependencies).
  
